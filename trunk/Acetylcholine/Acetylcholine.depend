@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1405099856 source:c:\users\dpearlma\gitrepo\repo\trunk\acetylcholine\src\b.cpp
+	<iostream>
+
+1405109997 source:c:\users\dpearlma\gitrepo\repo\trunk\acetylcholine\src\a.cpp
+	<iostream>
+	"i.h"
+
+1405107284 c:\users\dpearlma\gitrepo\repo\trunk\acetylcholine\include\i.h
+
+1405106985 source:c:\users\dpearlma\gitrepo\repo\trunk\acetylcholine\src\case.cpp
+	<iostream>
+
+1405111600 source:c:\users\dpearlma\gitrepo\repo\trunk\acetylcholine\src\checkers.cpp
+	<iostream>
+
